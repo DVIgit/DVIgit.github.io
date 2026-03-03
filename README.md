@@ -3,7 +3,7 @@
 Welcome :)
 on this page you can see all the links to my portfolio projects. Each entry has a link to the game and a short description of what I did for the game. The entries are ordered by their recency and representative value.
 
-## Shadow Wizard Color Gang [here](https://yourwebsite.com)
+## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
 Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
 
 ### Technical Contributions:
