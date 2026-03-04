@@ -2,16 +2,17 @@
 
 Welcome :)
 
-on this page you can see all the links to my portfolio projects. Each entry has a link to the game and a short description of what I did for the game. The entries are ordered by their recency and representative value.
+On this page you can see all the links to my portfolio projects. Each entry has a link to the game and a short description of what I did for the game. The entries are ordered by their recency and representative value.
 
 ## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
 Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
 
 ### Technical Contributions:
-- Spraying mechanic, $1 gesture recognition algorhythm
+- Spraying Symbols (gesture recognition algorhythm)
 - 5 Different Spells
 - Character Controller with Parkour Abillities* (finite state machine)
 - Shaders*
+- Saving and Loading
 - among many other small things
 
 *: collaborativelly with a second programmer
@@ -39,5 +40,5 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 - Death Animation Simulation
 - Visual Flare and Game Feel
 
-## [Breaking Down](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
-This was my first uniersity project. It is not super illustrative of my current skills, but I thought I could include it to show my progress. This was my first time using Unity, working in a team and we only had 5 days to make it. Even with that, I would say it turned out to be a fun game.
+## [Breaking Down](https://dvi-71.itch.io/breaking-down)
+This was my first uniersity project. It is not very illustrative of my current skills, but I thought I could include it to show my progress. This was my first time using Unity, working in a team and we only had 5 days to make it. Even with that, I would say it turned out to be a fun game.
