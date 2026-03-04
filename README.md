@@ -1,6 +1,7 @@
 # My Game Dev Portfolio
 
 Welcome :)
+
 on this page you can see all the links to my portfolio projects. Each entry has a link to the game and a short description of what I did for the game. The entries are ordered by their recency and representative value.
 
 ## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
