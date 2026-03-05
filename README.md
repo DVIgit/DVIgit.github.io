@@ -10,7 +10,7 @@ On this page you can see all the links to my portfolio projects. Each entry has 
 Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
 
 <p float="left">
-  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/8d298a7b-2e0b-4156-8d0a-6dd587e85659" />
+  <img width="49%" alt="image" src="https://github.com/user-attachments/assets/de9ff35c-10c8-4fcd-89e2-cddaf81636e5" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/f6176e74-9f8c-45e6-b2b3-d04c840c0325" />
 </p>
 
