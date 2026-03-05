@@ -6,6 +6,8 @@ On this page you can see all the links to my portfolio projects. Each entry has 
 
 ## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
 Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d298a7b-2e0b-4156-8d0a-6dd587e85659" />
+
 
 ### Technical Contributions:
 - Spraying Symbols (gesture recognition algorhythm)
@@ -25,6 +27,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 
 ## [Unpaired](https://dvi-71.itch.io/unpaired2)
 Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system. It was done in 5 days with a second programmer.
+<img width="1568" height="877" alt="image" src="https://github.com/user-attachments/assets/6abe3262-9f53-4835-a894-14e45999a2d6" />
 
 ### Contributions:
 - Character Controller
@@ -42,4 +45,6 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 - Visual Flare and Game Feel
 
 ## [Breaking Down](https://dvi-71.itch.io/breaking-down)
+
 This was my first uniersity project. It is not very illustrative of my current skills, but I thought I could include it to show my progress. This was my first time using Unity, working in a team and we only had 5 days to make it. Even with that, I would say it turned out to be a fun game.
+<img width="794" height="444" alt="image" src="https://github.com/user-attachments/assets/adc87c07-e791-48b7-8d7e-26bc1d455f9a" />
