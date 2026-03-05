@@ -32,7 +32,9 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 
 ## [Unpaired](https://dvi-71.itch.io/unpaired2)
 Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system. It was done in 5 days with a second programmer.
+
 <img width="1568" height="877" alt="image" src="https://github.com/user-attachments/assets/6abe3262-9f53-4835-a894-14e45999a2d6" />
+
 
 ### Contributions:
 - Character Controller
@@ -42,7 +44,9 @@ Unpaired is a short physics driven platformer. I mainly learned how to work with
 
 ## [Poopie & Dookie: Sharting in the Forest](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
 This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense development process, but the final game worked and was even pretty polished considering the time restictions.
+
 <img width="2326" height="1222" alt="Poopie DookieScreen2" src="https://github.com/user-attachments/assets/593b7515-d9cc-4698-8f88-18fe2247d4bc" />
+
 
 ### Contributions:
 - Character Controller
@@ -52,4 +56,9 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 ## [Breaking Down](https://dvi-71.itch.io/breaking-down)
 
 This was my first uniersity project. It is not very illustrative of my current skills, but I thought I could include it to show my progress. This was my first time using Unity, working in a team and we only had 5 days to make it. Even with that, I would say it turned out to be a fun game.
+
 <img width="794" height="444" alt="image" src="https://github.com/user-attachments/assets/adc87c07-e791-48b7-8d7e-26bc1d455f9a" />
+
+### Contributions:
+- Character Controller
+- Destruction (mesh substitution)
