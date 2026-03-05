@@ -39,7 +39,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 ## [Unpaired](https://dvi-71.itch.io/unpaired2)
 Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system. It was done in 5 days with a second programmer.
 
-<img width="1568" height="877" alt="image" src="https://github.com/user-attachments/assets/6abe3262-9f53-4835-a894-14e45999a2d6" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/6abe3262-9f53-4835-a894-14e45999a2d6" />
 
 
 ### Contributions:
