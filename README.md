@@ -5,7 +5,6 @@ Welcome :)
 This site serves as an overview of all my portfolio projects. Each entry has a link to the game and a short description of what I did for the game. The entries are ordered by their recency and representative value.
 <br/>
 <br/>
-<br/>
 ## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
 Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
 
@@ -13,9 +12,6 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/de9ff35c-10c8-4fcd-89e2-cddaf81636e5" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/f6176e74-9f8c-45e6-b2b3-d04c840c0325" />
 </p>
-<br/>
-<br/>
-<br/>
 ### Technical Contributions:
 - Spraying Symbols (gesture recognition algorhythm)
 - 5 Different Spells
@@ -33,9 +29,9 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 - VFX Implementation
 
 [---itch.io link---](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
-
-
-
+<br/>
+<br/>
+<br/>
 ## [Unpaired](https://dvi-71.itch.io/unpaired2)
 Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system. It was done in 5 days with a second programmer.
 
@@ -49,9 +45,9 @@ Unpaired is a short physics driven platformer. I mainly learned how to work with
 - Level Design
 
 [---itch.io link---](https://dvi-71.itch.io/unpaired2)
-
-
-
+<br/>
+<br/>
+<br/>
 ## [Poopie & Dookie: Sharting in the Forest](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
 This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense development process, but the final game worked and was even pretty polished considering the time restictions.
 
@@ -64,9 +60,9 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 - Visual Flare and Game Feel
 
 [---itch.io link---](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
-
-
-
+<br/>
+<br/>
+<br/>
 ## [Breaking Down](https://dvi-71.itch.io/breaking-down)
 
 This was my first uniersity project. It is not very illustrative of my current skills, but I thought I could include it to show my progress. This was my first time using Unity, working in a team and we only had 5 days to make it. Even with that, I would say it turned out to be a fun game.
