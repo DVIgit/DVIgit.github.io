@@ -12,6 +12,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/de9ff35c-10c8-4fcd-89e2-cddaf81636e5" />
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/f6176e74-9f8c-45e6-b2b3-d04c840c0325" />
 </p>
+
 ### Technical Contributions:
 - Spraying Symbols (gesture recognition algorhythm)
 - 5 Different Spells
