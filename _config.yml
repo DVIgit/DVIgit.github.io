@@ -1,1 +1,11 @@
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: auto
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      title: ""
