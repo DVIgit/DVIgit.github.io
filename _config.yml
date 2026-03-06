@@ -8,4 +8,4 @@ defaults:
   - scope:
       path: ""
     values:
-      title: ""
+      title: "My Game Dev Portfolio"
