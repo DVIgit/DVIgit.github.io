@@ -18,6 +18,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 - Character Controller with Parkour Abillities* (finite state machine)
 - Shaders*
 - Saving and Loading
+- Camera System (switching, decollision and dynamic response to player state)
 - among many other small things
 
 *: collaborativelly with a second programmer
