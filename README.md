@@ -5,7 +5,7 @@ This site serves as an overview of all my portfolio projects. Each entry has a l
 <br/>
 <br/>
 ## [Shadow Wizard Color Gang](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
-Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in unity in Unity, from coding and shader programming, to level and game feel tweaking.
+Shadow Wizard Color Gang is the biggest project that I worked on. I was the game designer and one of two programmers. 90% of my work was spent in Unity, from coding and shader programming, to level and game feel tweaking.
 
 <p float="left">
   <img width="49%" alt="image" src="https://github.com/user-attachments/assets/de9ff35c-10c8-4fcd-89e2-cddaf81636e5" />
@@ -33,7 +33,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 <br/>
 <br/>
 ## [Unpaired](https://dvi-71.itch.io/unpaired2)
-Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system. It was done in 5 days with a second programmer.
+Unpaired is a short physics driven platformer. I mainly learned how to work with the Unity physics system and the basics of procedural animation. It was a 5-day project, but the game still has a lot charm.
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/6abe3262-9f53-4835-a894-14e45999a2d6" />
 
@@ -49,7 +49,7 @@ Unpaired is a short physics driven platformer. I mainly learned how to work with
 <br/>
 <br/>
 ## [Poopie & Dookie: Sharting in the Forest](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
-This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense development process, but the final game worked and was even pretty polished considering the time restictions.
+This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense and fun development process, but the final game worked and was even pretty polished considering the time restictions. It can be played directly in the browser, so no need to download anything to try it out.
 
 <img width="100%" alt="Poopie DookieScreen2" src="https://github.com/user-attachments/assets/593b7515-d9cc-4698-8f88-18fe2247d4bc" />
 
