@@ -74,7 +74,7 @@ My code is public on GitHub [HERE](https://github.com/DVIgit/CapsuleFighter). (D
 
 <br/>
 [---Code on GitHub---](https://github.com/DVIgit/CapsuleFighter)
-<br/>
+
 [---itch.io link---](https://dvi-71.itch.io/capsule-fighter)
 <br/>
 <br/>
