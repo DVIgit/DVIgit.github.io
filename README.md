@@ -29,7 +29,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 - Collectables (placements and their respective parkour challenges)
 - VFX Implementation
 
-[**---itch.io link---**](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
+[**--- itch.io link ---**](https://theycallmekizze.itch.io/shadow-wizard-color-gang)
 <br/>
 <br/>
 <br/>
@@ -45,7 +45,7 @@ Unpaired is a short physics driven platformer. I mainly learned how to work with
 - VFX Implementation
 - Level Design
 
-[**---itch.io link---**](https://dvi-71.itch.io/unpaired2)
+[**--- itch.io link ---**](https://dvi-71.itch.io/unpaired2)
 <br/>
 <br/>
 <br/>
@@ -60,7 +60,7 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 - Death Animation Simulation
 - Visual Flare and Game Feel
 
-[**---itch.io link---**](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
+[**--- itch.io link ---**](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
 <br/>
 <br/>
 <br/>
@@ -73,9 +73,9 @@ My code is public on GitHub [**HERE**](https://github.com/DVIgit/CapsuleFighter)
 <img width="100%" alt="CapsuleFighterScreen" src="https://github.com/user-attachments/assets/554b84f3-c933-40f5-8151-40635547f28b" />
 
 
-[**---Code on GitHub---**](https://github.com/DVIgit/CapsuleFighter)
+[**--- Code on GitHub ---**](https://github.com/DVIgit/CapsuleFighter)
 
-[**---itch.io link---**](https://dvi-71.itch.io/capsule-fighter)
+[**--- itch.io link ---**](https://dvi-71.itch.io/capsule-fighter)
 <br/>
 <br/>
 <br/>
@@ -90,4 +90,4 @@ This was my first uniersity project. It is not very illustrative of my current s
 - Character Controller
 - Destruction (mesh substitution)
 
-[**---itch.io link---**](https://dvi-71.itch.io/breaking-down)
+[**--- itch.io link ---**](https://dvi-71.itch.io/breaking-down)
