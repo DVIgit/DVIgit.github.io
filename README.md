@@ -72,6 +72,7 @@ My code is public on GitHub [HERE](https://github.com/DVIgit/CapsuleFighter). (D
 
 <img width="100%" alt="CapsuleFighterScreen" src="https://github.com/user-attachments/assets/554b84f3-c933-40f5-8151-40635547f28b" />
 
+
 [---Code on GitHub---](https://github.com/DVIgit/CapsuleFighter)
 
 [---itch.io link---](https://dvi-71.itch.io/capsule-fighter)
