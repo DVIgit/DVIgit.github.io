@@ -67,6 +67,7 @@ This game is a 1v1 local multiplayer game which was made as a part of the 48 hou
 
 ## [Capsule Fighter](https://dvi-71.itch.io/capsule-fighter)
 A simple rollback network fighting game. This was solo project and was meant as my first experiment with rollback netcode. It works only a local network right now, but it does work as intended. The core of the game is done purely by C# Unity was used only for UI, rendering and TCP.
+
 <img width="100%" alt="CapsuleFighterScreen" src="https://github.com/user-attachments/assets/554b84f3-c933-40f5-8151-40635547f28b" />
 
 
