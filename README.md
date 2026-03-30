@@ -38,7 +38,7 @@ Shadow Wizard Color Gang is the biggest project that I worked on. I was the game
 ## [<ins>Capsule Fighter</ins>](https://dvi-71.itch.io/capsule-fighter)
 A simple rollback netcode fighting game. This was solo project and was meant as my first experiment with rollback. It works only on a local network. The core of the game is pure C#, so it would be deterministic and independant of CPUs. Unity was used only for UI, rendering and TCP.
 
-My code is public on GitHub [**HERE**](https://github.com/DVIgit/CapsuleFighter). (Do not judge the lack of proper git usage, it was done without version control at first)
+My code is public on GitHub [**HERE**](https://github.com/DVIgit/CapsuleFighter). (Do not judge the lack of proper git usage, as it was done without version control at first)
 
 <img width="100%" alt="CapsuleFighterScreen" src="https://github.com/user-attachments/assets/554b84f3-c933-40f5-8151-40635547f28b" />
 
