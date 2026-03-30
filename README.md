@@ -70,7 +70,7 @@ Unpaired is a short physics driven platformer. I mainly learned how to work with
 <br/>
 <br/>
 ## [<ins>Poopie & Dookie: Sharting in the Forest</ins>](https://cupc4kez.itch.io/poopie-and-dookie-sharting-in-the-forest)
-This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense and fun development process, but the final game worked and was even pretty polished considering the time restictions. It can be played directly in the browser, so no need to download anything to try it out.
+This game is a 1v1 local multiplayer game which was made as a part of the 48 hour Global Game Jam 2026. It was an intense and fun development process. We managed to create a working game and it was even pretty polished considering the time restictions. It can be played directly in the browser, so no need to download anything to try it out.
 
 <img width="100%" alt="Poopie DookieScreen2" src="https://github.com/user-attachments/assets/593b7515-d9cc-4698-8f88-18fe2247d4bc" />
 
